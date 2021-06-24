@@ -1,0 +1,3 @@
+# PricingPanel
+
+Responsive Layout
